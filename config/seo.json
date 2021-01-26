@@ -1,0 +1,11 @@
+{
+  "title": "To Do App",
+  "titleTemplate": "%s - Challenges",
+  "description": "To Do App",
+  "openGraph": {
+    "type": "website",
+    "locale": "en_IE",
+    "url": "",
+    "site_name": "To Do App"
+  }
+}

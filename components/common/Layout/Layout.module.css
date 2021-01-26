@@ -1,0 +1,7 @@
+.container {
+  @apply font-body text-sm md:text-base min-h-screen bg-gray-100;
+}
+
+.todo-header {
+  padding-top: 200px !important;
+}
